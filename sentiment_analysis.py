@@ -2,8 +2,6 @@
 import string
 from collections import Counter
 
-import matplotlib.pyplot as plt
-
 # Opening the input text file
 data = open("input.txt", encoding="utf-8").read()
 
